@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Oleksii-Poltavets/tailwindCSS-gallery/static/css/main.facce1cf.css",
+    "main.js": "/Oleksii-Poltavets/tailwindCSS-gallery/static/js/main.526bc710.js",
+    "index.html": "/Oleksii-Poltavets/tailwindCSS-gallery/index.html",
+    "main.facce1cf.css.map": "/Oleksii-Poltavets/tailwindCSS-gallery/static/css/main.facce1cf.css.map",
+    "main.526bc710.js.map": "/Oleksii-Poltavets/tailwindCSS-gallery/static/js/main.526bc710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.facce1cf.css",
+    "static/js/main.526bc710.js"
+  ]
+}
